@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Источник",
+        "link": "https://allfirstaid.ru/index.php?q=system/files/images/Pamyatka.pdf",
+        "name": "Памятка первой помощи"
+    },
+    {
+        "type": "Источник",
+        "link": "https://rusnrc.com",
+        "name": "Курсы по первой помощи"
+    },
+    {
+        "type": "Источник",
+        "link": "https://www.msdmanuals.com/ru-ru/профессиональный/медицина-критических-состояний/основные-методики-проведения-искусственной-вентиляции-дыхательных-путей/как-делать-прием-геймлиха-взрослым-или-детям-в-сознании",
+        "name": "Прием Геймлиха"
+    },
+    {
+        "type": "Источник",
+        "link": "https://www.msdmanuals.com/ru-ru/профессиональный/заболевания-уха,-горла-и-носа/подходы-к-лечению-пациентов-при-нарушениях-со-стороны-носоглотки/носовое-кровотечение?query=носовое%20кровотечение",
+        "name": "Носовое кровотечение"
+    },
+    {
+        "type": "Источник",
+        "link": "https://hartmann-shop.ru/articles/vidy_povyazok_i_pravila_ikh_nalozheniya/",
+        "name": "Повязки"
+    },
+    {
+        "type": "Источник",
+        "link": "https://sch1862u.mskobr.ru/files/pravila_nalozheniya_povyazok.pdf",
+        "name": "Повязки"
+    },
+    {
+        "type": "Источник",
+        "link": "https://hartmann-shop.ru/articles/pravila_okazaniya_pervoy_pomoshchi_pri_ushibakh/",
+        "name": "Ушибы"
+    },
+    {
+        "type": "Источник",
+        "link": "https://medicin.cap.ru/action/activity/organizaciya-medicinskoj-pomoschi-vzroslomu-nasele/profilaktika/prazdniki-bez-vreda-zdorovjyu/otravlenie-alkogolem-meri-profilaktiki-i-okazanie",
+        "name": "Алкогольное отравление"
+    },
+    {
+        "type": "Источник",
+        "link": "https://lugamb.ru/health-advisory/pamyatka-otravlenie-alkogolem/",
+        "name": "Алкогольное отравление"
+    },
+    {
+        "type": "Источник",
+        "link": "https://47.mchs.gov.ru/rekomendacii-naseleniyu/serdechno-legochnaya-reanimaciya-slr#:~:text=Давление%20руками%20на%20грудину%20пострадавшего,Рот%2Dко%2Dрту%22.",
+        "name": "СЛР у взрослых"
+    },
+    {
+        "type": "Источник",
+        "link": "https://mchs.gov.ru/deyatelnost/bezopasnost-grazhdan/osobennosti-slr-u-detey_8",
+        "name": "СЛР у детей"
+    },
+    {
+        "type": "Источник",
+        "link": "https://mchs.gov.ru/deyatelnost/bezopasnost-grazhdan/pervaya-pomoshch-pri-obmorozhenii_0",
+        "name": "Обморожение"
+    },
+    {
+        "type": "Источник",
+        "link": "https://www.trbzdrav.ru/article-first-aid/first-aid-sunstroke.php",
+        "name": "Солнечный удар"
+    },
+    {
+        "type": "Источник",
+        "link": "https://www.vokrugsveta.ru/article/300122/",
+        "name": "Интересные факты"
+    }
+]
